@@ -10,3 +10,5 @@ Roblox -> Website -> Checks For UserID Inside -> Returns Value -> Then Your Scri
 It has the following features: No logs (at least for my http logger), clear console, and discord username to roblox account.
 
 Enjoy!
+
+credits: randomgithubuser323
